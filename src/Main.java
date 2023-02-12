@@ -57,6 +57,7 @@ public class Main {
             System.out.println("Доставки нет");
         }
     }
+
     public static void  task5() {
         int monthNumber = 10;
         switch (monthNumber) {
